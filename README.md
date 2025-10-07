@@ -62,5 +62,7 @@ It highlights KPIs, trends, and product-level analysis to help identify where gr
 ### 👤 Author
 **Raafat Elrais**  
 Business Intelligence Developer  
-[LinkedIn](https://www.linkedin.com/in/raafat-elrais/)
+👤 Connect with me on LinkedIn: [Raafat Elrais](https://www.linkedin.com/in/raafat-elrais/)
+
+💡 I am #OpenToWork — always open to collaborations and opportunities in Data Analysis, BI, and Data Visualization. Feel free to connect and reach out!
 
