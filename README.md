@@ -20,13 +20,12 @@ This made it difficult for stakeholders to plan marketing budgets, optimize inve
 - Added interactive visuals and KPIs to track performance, profitability, and category-level contribution.  
 
 ---
-
 ### 🖼️ Dashboard Overview
 
 This Power BI dashboard provides a complete view of sales performance across all products and regions.  
 It highlights KPIs, trends, and product-level analysis to help identify where growth is coming from — and where improvements are needed.
 
-![Sales Performance Dashboard](images/dashboard_overview.png)
+![Sales Performance Dashboard](Image/Dashboard_Overview.png)
 
 > 💡 The layout was designed to make insights instantly clear — blending high-level KPIs with deeper product and category breakdowns for quick business decisions.
 
